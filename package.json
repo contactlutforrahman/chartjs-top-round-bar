@@ -1,0 +1,19 @@
+{
+  "name": "chartjs-top-round-bar",
+  "version": "1.0.0",
+  "description": "An npm package for top round bar for chartjs. It's compatible with any javascript framework. It has only dependency with chart.js",
+  "main": "index.js",  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contactlutforrahman/chartjs-top-round-bar.git"
+  },
+  "keywords": [
+    "top-round-bar-for-chartjs"
+  ],
+  "author": "Lutfor Rahman <contact.lutforrahman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contactlutforrahman/chartjs-top-round-bar/issues"
+  },
+  "homepage": "https://github.com/contactlutforrahman/chartjs-top-round-bar#readme"
+}
