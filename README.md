@@ -16,4 +16,4 @@ new Chart('barChart', {
  });
 
 
-#Buy me a coffee : buymeacoff.ee/2VTGEtX
+#[Buy me a coffee](buymeacoff.ee/2VTGEtX)
