@@ -16,4 +16,4 @@ new Chart('barChart', {
  });
 
 
-#[Buy me a coffee](https://www.buymeacoffee.com/2VTGEtX)
+[Buy me a coffee](https://www.buymeacoffee.com/2VTGEtX)
