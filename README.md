@@ -1,6 +1,6 @@
 # chartjs-top-round-bar
 
-##Angular 2 4 5 6 7
+##Angular 2 4 5 6 7 8 9
 
 npm i chartjs-top-round-bar
 
