@@ -14,6 +14,3 @@ new Chart('barChart', {
         options: { barRoundness: 0.3}
         
  });
-
-
-[Buy me a coffee](https://www.buymeacoffee.com/2VTGEtX)
